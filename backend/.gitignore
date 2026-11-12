@@ -6,3 +6,5 @@ uploads/*
 !uploads/.gitkeep
 processed/*
 !processed/.gitkeep
+
+yolo11n.pt
