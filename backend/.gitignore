@@ -6,4 +6,3 @@ uploads/*
 !uploads/.gitkeep
 processed/*
 !processed/.gitkeep
-*.pt
